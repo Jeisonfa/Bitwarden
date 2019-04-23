@@ -1,5 +1,4 @@
-IFRAMES:es un documento HTML que está incrustado dentro de otro en un sitio Web. Es decir, puedes usar iframe para insertar cierto contenido de otra fuente en una página web.
-AUTOFILL: sistema de autocompletado,
+IFRAMES:es un documento HTML que está incrustado dentro de otro en un sitio Web. Es decir, puedes usar iframe para insertar cierto contenido de otra fuente en una página weAUTOFILL: sistema de autocompletad *iframe*
 LISTAS BLANCAS: son el listado guardado que se incorporan para la autorizacion  automatica de codigo, correos los cuales son confiables.
 CONTRASEÑA MAESTRA: es la contraseña qwue se da para administrar un grupo de contraseñas guardadas.
 ATAQUE DE FUERZA BRUTA EN LINEA:forma de recuperar una clave probando todas las combinaciones posibles hasta encontrar aquella que permite el acceso. La fuerza bruta suele combinarse con un ataque de diccionario, en el que se encuentran diferentes palabras para ir probando con ellas.
